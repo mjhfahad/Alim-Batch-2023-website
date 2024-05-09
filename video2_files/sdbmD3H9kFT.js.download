@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("createCometComposerAgnosticEditorStateFromText",["cr:8951","cr:8952"],(function(a,b,c,d,e,f,g){"use strict";function a(a,c){return b("cr:8951")!=null?{editorState:b("cr:8951")(a,c)}:{initialRawContentState:b("cr:8952")==null?void 0:b("cr:8952")(a)}}g["default"]=a}),98);
+__d("createCometComposerEditorStateFromText",[],(function(a,b,c,d,e,f){"use strict";function a(a,b){return babelHelpers["extends"]({__type:"plain-text",hasFocus:!1,isComposing:!1,isPendingSelection:!1,selectionOffsets:null,text:a},b)}f["default"]=a}),66);
